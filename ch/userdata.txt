@@ -1,0 +1,6 @@
+Name: , Address: , Phone: , 
+    Email: , Password: 
+Name: , Address: , Phone: , 
+    Email: , Password: 
+Name: , Address: , Phone: , 
+    Email: , Password: 
